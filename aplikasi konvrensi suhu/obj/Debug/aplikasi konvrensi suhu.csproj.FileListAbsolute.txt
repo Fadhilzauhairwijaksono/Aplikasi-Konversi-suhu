@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\aplikasi konvrensi suhu\obj\Debug\aplikasi konvrensi suhu.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\aplikasi konvrensi suhu\obj\Debug\aplikasi konvrensi suhu.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\aplikasi konvrensi suhu\bin\Debug\aplikasi konvrensi suhu.exe.config
+C:\Users\DELL\source\repos\aplikasi konvrensi suhu\bin\Debug\aplikasi konvrensi suhu.exe
+C:\Users\DELL\source\repos\aplikasi konvrensi suhu\bin\Debug\aplikasi konvrensi suhu.pdb
+C:\Users\DELL\source\repos\aplikasi konvrensi suhu\obj\Debug\aplikasi konvrensi suhu.exe
+C:\Users\DELL\source\repos\aplikasi konvrensi suhu\obj\Debug\aplikasi konvrensi suhu.pdb
